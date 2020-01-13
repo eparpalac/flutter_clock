@@ -21,4 +21,4 @@ flutter:
   fonts:
     - family: AllertaStencil
       fonts:
-        - asset: assets/fonts/AllertaStencil_Regular.ttf
+        - asset: assets/fonts/AllertaStencil-Regular.ttf
