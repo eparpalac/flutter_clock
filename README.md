@@ -19,4 +19,4 @@ The UI is kept purposefully minimal so that user can focus on the main clock fun
 <img src='digital_clock/demo.gif' width='500'>
 
 ## License
-This project is licensed under the terms of the [MIT License](digital_clock/LICENSE.md).
+This project is licensed under the terms of the [MIT License](digital_clock/LICENSE).
