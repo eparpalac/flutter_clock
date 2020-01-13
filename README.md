@@ -1,15 +1,22 @@
-# Flutter Clock
+# Flutter Clock Face UI
 
-Welcome to Flutter Clock!
+Lenovo Smart Clock face UI for [Flutter Clock challenge](https://flutter.dev/clock) by Google Assistant and Lenovo.
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+## Styling and Customization
+The UI is kept purposefully minimal so that user can focus on the main clock function. However, some options can be customized, such us:
+* Time format
+* Theme
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+## Examples
 
-Example [Analog Clock](analog_clock)
+|  | 24-hour format | 12-hour format |
+|---------------------|----------------|----------------|
+| **Dark theme** | <img src='digital_clock/dark_theme_24_hours.png' width='350'> | <img src='digital_clock/dark_theme_12_hours.png' width='350'> |
+| **Light theme** | <img src='digital_clock/light theme_24_hours.png' width='350'> | <img src='digital_clock/light theme_12_hours.png' width='350'> |
 
-<img src='analog_clock/analog.gif' width='350'>
 
-Example [Digital Clock](digital_clock)
+## Demo
+<img src='digital_clock/demo.gif' width='500'>
 
-<img src='digital_clock/digital.gif' width='350'>
+## License
+This project is licensed under the terms of the [MIT License](digital_clock/LICENSE.md).
